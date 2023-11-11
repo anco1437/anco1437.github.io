@@ -6,7 +6,7 @@ url: ikongsong.com
 rss_url: /feed.xml
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /blog/:title/ #这个是文章的链接格式，应该是这样的：/blog/文章标题/
 markdown:           kramdown 
 highlighter:        rouge
 kramdown:
